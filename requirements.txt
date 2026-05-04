@@ -1,0 +1,28 @@
+# Python >= 3.10 recommended.
+# Core scientific stack
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.10,<2.0
+scikit-learn>=1.3,<2.0
+matplotlib>=3.7,<4.0
+joblib>=1.3,<2.0
+tqdm>=4.65,<5.0
+
+# Deep learning and Hugging Face models
+# The code uses transformers.AutoModel/AutoTokenizer for sentence-transformers/gtr-t5-base.
+torch>=2.1
+transformers>=4.36,<5.0
+datasets>=2.16,<4.0
+sentencepiece>=0.1.99
+protobuf>=4.25,<6.0
+accelerate>=0.27
+
+# Text processing and evaluation
+nltk>=3.8,<4.0
+
+# API-based generation, rewriting, and LLM judging
+openai>=1.30,<3.0
+distilabel>=1.5,<2.0
+
+# Embedding inversion used by the latent-space pipeline
+vec2text>=0.0.13
