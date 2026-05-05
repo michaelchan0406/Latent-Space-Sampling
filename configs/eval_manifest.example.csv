@@ -1,0 +1,4 @@
+method,path,label_path
+MedQuAD+PubMedQA (GT),HUGGINGFACE_MIXED,./artifacts/icd10_labeled/labeled_MedQuAD_PubMedQA_GT.csv
+Ours-gpt-5.4-stratifiedL2,./outputs/full_pipeline/step4_final_refined.jsonl,./artifacts/icd10_labeled/labeled_Ours-gpt-5.4-stratifiedL2.csv
+M1 GPT-5.4,./outputs/baselines/m1_gpt54.jsonl,./artifacts/icd10_labeled/labeled_M1_GPT-5.4.csv

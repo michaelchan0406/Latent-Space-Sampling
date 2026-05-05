@@ -1,0 +1,18 @@
+[
+  {
+    "name": "MedQuAD+PubMedQA_GT",
+    "format": "huggingface_mixed"
+  },
+  {
+    "name": "Ours-gpt-5.4-stratifiedL2",
+    "path": "./outputs/full_pipeline/step4_final_refined.jsonl",
+    "format": "jsonl",
+    "text_column": "rewritten"
+  },
+  {
+    "name": "M1 GPT-5.4",
+    "path": "./outputs/baselines/m1_gpt54.jsonl",
+    "format": "jsonl",
+    "text_column": "question"
+  }
+]

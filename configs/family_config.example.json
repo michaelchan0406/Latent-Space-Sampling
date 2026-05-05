@@ -1,0 +1,14 @@
+{
+  "openai": {
+    "api_key_env": "OPENAI_API_KEY",
+    "base_url_env": "OPENAI_BASE_URL"
+  },
+  "qwen": {
+    "api_key_env": "QWEN_API_KEY",
+    "base_url_env": "QWEN_BASE_URL"
+  },
+  "gemini": {
+    "api_key_env": "GEMINI_API_KEY",
+    "base_url_env": "GEMINI_BASE_URL"
+  }
+}
