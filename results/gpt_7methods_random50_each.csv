@@ -1,0 +1,351 @@
+family,method,sample_id_within_method,original_row_index,question
+GPT-5.4,M1,1,1860,What is the first-line pharmacologic treatment for acute mania in a patient with bipolar I disorder?
+GPT-5.4,M1,2,353,"In patients with resected stage III colorectal cancer, how does circulating tumor DNA positivity after adjuvant chemotherapy correlate with recurrence-free survival compared with radiographic surveillance alone?"
+GPT-5.4,M1,3,1333,What is the most common cause of aortic stenosis in elderly patients?
+GPT-5.4,M1,4,905,What clinical signs and symptoms should a nurse monitor for in a patient with acute pancreatitis?
+GPT-5.4,M1,5,1289,"In a patient with unexplained weight loss, iron deficiency anemia, and a change in bowel habits, which colorectal cancer red-flag features should prompt urgent referral for colonoscopy?"
+GPT-5.4,M1,6,1273,Which electrocardiographic finding is most characteristic of acute pericarditis?
+GPT-5.4,M1,7,938,"In a patient with triple-negative essential thrombocythemia and recurrent splanchnic vein thrombosis despite therapeutic anticoagulation, what factors would guide escalation to cytoreductive therapy and how would you select among hydroxyurea, pegylated interferon alfa, and ruxolitinib?"
+GPT-5.4,M1,8,1731,How does host genetic variation influence susceptibility to severe Plasmodium falciparum malaria and treatment response in endemic populations?
+GPT-5.4,M1,9,65,How do host transcriptomic signatures compare with pathogen-specific PCR in distinguishing bacterial from viral sepsis in immunocompromised adults presenting with acute febrile illness?
+GPT-5.4,M1,10,1323,"In an HIV-positive patient with CD4 count below 50 cells/µL presenting with focal brain lesions on MRI, which clinical, radiologic, and laboratory features most reliably distinguish cerebral toxoplasmosis from primary CNS lymphoma?"
+GPT-5.4,M1,11,56,What is the first-line pharmacologic treatment for acute mania in a patient with bipolar I disorder?
+GPT-5.4,M1,12,1292,What is the most common cause of iron deficiency anemia in premenopausal adults?
+GPT-5.4,M1,13,1118,What nursing intervention is most important to reduce the risk of hypoxemia in a patient with acute exacerbation of chronic obstructive pulmonary disease?
+GPT-5.4,M1,14,584,"In a patient with ACTH-independent Cushing syndrome and bilateral adrenal macronodular hyperplasia, how would aberrant G-protein–coupled receptor expression influence the choice and interpretation of dynamic endocrine testing?"
+GPT-5.4,M1,15,374,Which neurotransmitter is most strongly implicated in the positive symptoms of schizophrenia?
+GPT-5.4,M1,16,275,What nursing assessment finding is most concerning in a patient with severe thrombocytopenia?
+GPT-5.4,M1,17,746,"What is the most likely diagnosis in a patient with polyuria, polydipsia, elevated serum glucose, and ketonuria?"
+GPT-5.4,M1,18,128,How do host genetic polymorphisms in innate immune signaling pathways influence susceptibility to severe dengue and the efficacy of antiviral interventions in diverse endemic populations?
+GPT-5.4,M1,19,1646,"In adults with early relapsing-remitting multiple sclerosis, how do serum neurofilament light chain trajectories correlate with MRI lesion burden and 2-year disability progression?"
+GPT-5.4,M1,20,1852,What is the most common cause of chronic obstructive pulmonary disease in adults?
+GPT-5.4,M1,21,674,"In a patient with new-onset atrial fibrillation, what factors should guide the decision to initiate anticoagulation?"
+GPT-5.4,M1,22,1664,"In a patient with anti-NMDA receptor encephalitis who develops refractory status epilepticus despite first-line immunotherapy and multiple antiseizure medications, what evidence guides escalation to second-line immunotherapy versus ketogenic diet or anesthetic coma?"
+GPT-5.4,M1,23,1981,"In an adult presenting with sudden unilateral facial weakness, how can you clinically differentiate Bell’s palsy from an acute ischemic stroke?"
+GPT-5.4,M1,24,1083,"In adults with type 2 diabetes and biopsy-confirmed metabolic dysfunction–associated steatohepatitis, how does treatment with a GLP-1 receptor agonist versus an SGLT2 inhibitor affect histologic fibrosis progression over 72 weeks?"
+GPT-5.4,M1,25,1922,How can circulating tumor DNA dynamics be integrated into adaptive trial designs to improve early efficacy assessment in patients with metastatic solid tumors?
+GPT-5.4,M1,26,99,"What is the most likely diagnosis in a young adult with recurrent sinus infections, situs inversus, and bronchiectasis?"
+GPT-5.4,M1,27,1179,"In an adult patient presenting with sudden unilateral facial weakness, what clinical features help distinguish Bell’s palsy from an acute ischemic stroke?"
+GPT-5.4,M1,28,964,"In a patient with metastatic castration-resistant prostate cancer progressing after docetaxel and an androgen receptor pathway inhibitor, how would homologous recombination repair gene status and prior platinum sensitivity influence selection between PARP inhibition, cabazitaxel, and ^177Lu-PSMA-617?"
+GPT-5.4,M1,29,792,"In patients with heart failure with preserved ejection fraction and pulmonary hypertension, how do current hemodynamic criteria distinguish isolated post-capillary from combined post- and pre-capillary disease during right heart catheterization?"
+GPT-5.4,M1,30,29,What is the difference between carcinoma in situ and invasive carcinoma?
+GPT-5.4,M1,31,628,"In adults with radiologically isolated syndrome, which baseline cerebrospinal fluid and MRI biomarkers most strongly predict conversion to clinically definite multiple sclerosis?"
+GPT-5.4,M1,32,944,What nursing assessment finding in a patient with suspected colorectal cancer should be reported to the healthcare provider immediately?
+GPT-5.4,M1,33,572,What nursing assessment findings should be reported immediately in a patient with suspected upper gastrointestinal bleeding?
+GPT-5.4,M1,34,907,What is the recommended initial management for a patient with suspected upper gastrointestinal bleeding presenting with melena and hemodynamic instability?
+GPT-5.4,M1,35,1080,"What is the most likely diagnosis in a young adult presenting with optic neuritis, internuclear ophthalmoplegia, and episodes of limb weakness separated in time and space?"
+GPT-5.4,M1,36,450,"In an adult patient with unexplained microcytic anemia, which initial laboratory tests are most useful to distinguish iron deficiency anemia from thalassemia trait?"
+GPT-5.4,M1,37,1609,"In adults with moderate-to-severe ulcerative colitis, how does baseline fecal calprotectin correlate with endoscopic and histologic remission rates at 52 weeks in randomized trials of biologic therapy?"
+GPT-5.4,M1,38,1290,What is the priority nursing intervention when a patient with schizophrenia begins experiencing command auditory hallucinations directing self-harm?
+GPT-5.4,M1,39,1078,"In an adult patient with unexplained fatigue and pallor, which initial laboratory tests are most appropriate to evaluate for iron deficiency anemia?"
+GPT-5.4,M1,40,254,What is the most common cause of hemoptysis in a patient with bronchiectasis?
+GPT-5.4,M1,41,124,"In adults with obesity-related insulin resistance, how does long-term treatment with GLP-1 receptor agonists alter adipose tissue inflammatory signaling and mitochondrial function compared with SGLT2 inhibitors?"
+GPT-5.4,M1,42,1927,"In an adult with fever, new heart murmur, and positive blood cultures, what clinical features and risk factors should raise suspicion for infective endocarditis?"
+GPT-5.4,M1,43,251,"In adults with moderate-to-severe ulcerative colitis, how does baseline fecal calprotectin correlate with endoscopic and histologic remission rates at 52 weeks following initiation of anti-TNF therapy?"
+GPT-5.4,M1,44,585,What nursing assessment finding in a patient with suspected colorectal cancer should be reported to the healthcare provider immediately?
+GPT-5.4,M1,45,1568,What nursing assessment finding is most concerning in a patient with acute upper gastrointestinal bleeding?
+GPT-5.4,M1,46,824,"In a patient with newly diagnosed atrial fibrillation, what factors should guide the decision to initiate anticoagulation?"
+GPT-5.4,M1,47,507,"In a patient with severe eosinophilic asthma and persistent exacerbations despite high-dose ICS/LABA and tiotropium, how would you differentiate among biologic options based on blood eosinophils, FeNO, oral corticosteroid dependence, and comorbid chronic rhinosinusitis with nasal polyposis?"
+GPT-5.4,M1,48,889,"In patients with hypertrophic obstructive cardiomyopathy who remain symptomatic despite maximally tolerated beta-blocker therapy, how do contemporary guideline-directed indications for mavacamten compare with septal reduction therapy in the presence of resting versus provocable LVOT gradients?"
+GPT-5.4,M1,49,70,"In patients with severe aortic stenosis and concomitant low-flow, low-gradient physiology with reduced ejection fraction, how do dobutamine stress echocardiography findings differentiate true severe stenosis from pseudo-severe stenosis?"
+GPT-5.4,M1,50,1608,"In a patient with suspected chronic obstructive pulmonary disease, which spirometric criterion confirms persistent airflow obstruction?"
+GPT-5.4,M2,1,1860,What are the common causes of abdominal pain?
+GPT-5.4,M2,2,353,How does sleep apnea affect overall health?
+GPT-5.4,M2,3,1333,What symptoms suggest gallbladder disease?
+GPT-5.4,M2,4,905,How is Alzheimer's disease diagnosed?
+GPT-5.4,M2,5,1289,How is osteoporosis screened for and prevented?
+GPT-5.4,M2,6,1273,How is epilepsy diagnosed?
+GPT-5.4,M2,7,938,How is a urinary tract infection diagnosed?
+GPT-5.4,M2,8,1731,Why do swollen legs sometimes indicate a serious condition?
+GPT-5.4,M2,9,65,What are the symptoms of a urinary tract infection?
+GPT-5.4,M2,10,1323,What symptoms should prompt concern for a possible stroke?
+GPT-5.4,M2,11,56,What can cause chronic lower back pain?
+GPT-5.4,M2,12,1292,What are the treatment options for depression in adolescents?
+GPT-5.4,M2,13,1118,What is the usual treatment for eczema?
+GPT-5.4,M2,14,584,Why do migraines occur?
+GPT-5.4,M2,15,374,How can dehydration affect kidney function?
+GPT-5.4,M2,16,275,How is chronic kidney disease monitored over time?
+GPT-5.4,M2,17,746,Why do some people develop allergies later in life?
+GPT-5.4,M2,18,128,How can high cholesterol be managed?
+GPT-5.4,M2,19,1646,What causes chronic migraines and how can they be prevented?
+GPT-5.4,M2,20,1852,When should a child’s rash be evaluated?
+GPT-5.4,M2,21,674,What causes high blood pressure?
+GPT-5.4,M2,22,1664,What are the treatment options for rheumatoid arthritis?
+GPT-5.4,M2,23,1981,When is surgery considered for gallstones?
+GPT-5.4,M2,24,1083,How can dehydration be prevented in hot weather?
+GPT-5.4,M2,25,1922,What are the common triggers of migraines?
+GPT-5.4,M2,26,99,How can high blood pressure affect overall health?
+GPT-5.4,M2,27,1179,What tests help determine the cause of infertility?
+GPT-5.4,M2,28,964,How is multiple sclerosis commonly diagnosed?
+GPT-5.4,M2,29,792,How does anxiety sometimes produce physical symptoms?
+GPT-5.4,M2,30,29,What are the red flags for depression?
+GPT-5.4,M2,31,628,What is the difference between a cold and the flu?
+GPT-5.4,M2,32,944,What are the possible causes of memory loss?
+GPT-5.4,M2,33,572,What are the symptoms of an overactive thyroid?
+GPT-5.4,M2,34,907,How is liver cirrhosis detected?
+GPT-5.4,M2,35,1080,How is hepatitis diagnosed?
+GPT-5.4,M2,36,450,What can cause shortness of breath during mild activity?
+GPT-5.4,M2,37,1609,How can someone tell if a fever is serious?
+GPT-5.4,M2,38,1290,What are the signs and symptoms of a urinary tract infection?
+GPT-5.4,M2,39,1078,Why do people faint unexpectedly?
+GPT-5.4,M2,40,254,What are the symptoms of lactose intolerance?
+GPT-5.4,M2,41,124,What can cause numbness or tingling in the hands?
+GPT-5.4,M2,42,1927,When should unexplained weight loss be concerning?
+GPT-5.4,M2,43,251,How can influenza be prevented?
+GPT-5.4,M2,44,585,How is pneumonia treated?
+GPT-5.4,M2,45,1568,Can certain medications cause memory problems?
+GPT-5.4,M2,46,824,What can cause sudden unexplained weight loss?
+GPT-5.4,M2,47,507,How are urinary tract infections diagnosed and treated?
+GPT-5.4,M2,48,889,How does peripheral artery disease usually present?
+GPT-5.4,M2,49,70,How does dehydration affect the body?
+GPT-5.4,M2,50,1608,What are the red flags for skin cancer?
+GPT-5.4,Med-Rag,1,1447,"In appraising this transplant study, how would you interpret the finding that selected recipients aged 65 years and older had short- and medium-term survival comparable to younger adults despite greater cardiovascular comorbidity, and what factors would you consider when deciding whether these results should influence heart-transplant candidacy criteria, postoperative risk stratification, and long-term management in an older patient?"
+GPT-5.4,Med-Rag,2,1114,"In a patient with suspected pseudoxanthoma elasticum, how would you integrate the characteristic cutaneous, ocular, cardiovascular, and hemorrhagic manifestations from the phenotype spectrum to guide your diagnostic evaluation and assessment of potential complications?"
+GPT-5.4,Med-Rag,3,1064,"In a nondialysis CKD patient found to have aortic calcification, how would you interpret a relatively low serum sclerostin level in the context of declining eGFR, bone turnover markers, and prior cardiovascular disease, and what pathophysiologic mechanisms and clinical implications would you consider when integrating this finding into cardiovascular and mineral-bone disorder risk assessment?"
+GPT-5.4,Med-Rag,4,2287,"In a younger inpatient with schizophrenia who expresses negative attitudes toward medication yet desires substantial involvement in treatment decisions, how would you assess decision-making capacity and structure a shared decision-making approach that addresses psychopathology, therapeutic alliance, and informed consent while optimizing adherence and clinical outcomes?"
+GPT-5.4,Med-Rag,5,1537,"In a patient with suspected MEMSA due to a POLG mutation, how would you explain the pathophysiologic link between impaired polymerase gamma function, mitochondrial DNA depletion, and the predominant involvement of high-energy tissues such as muscle, brain, and liver when interpreting the patient’s clinical presentation?"
+GPT-5.4,Med-Rag,6,668,"A 4-month-old infant of Ashkenazi Jewish ancestry presents with poor head control, feeding difficulties, hypotonia evolving to spasticity, macrocephaly, and developmental delay; based on the pathophysiology of Canavan disease, how would you explain the link between ASPA gene mutation, N-acetyl-aspartate accumulation, oligodendrocyte dysfunction, and the characteristic clinical and neurodevelopmental features, and what genetic counseling considerations would you discuss with the parents regarding inheritance and prenatal testing?"
+GPT-5.4,Med-Rag,7,1583,"In a patient with acute liver failure whose plasma ammonia results show large discrepancies between a dry chemistry assay and an enzymatic-UV method, how would you interpret the potential analytical impact of markedly elevated alanine aminotransferase on ammonia measurement, and how would this influence your diagnostic and monitoring strategy for hyperammonaemia?"
+GPT-5.4,Med-Rag,8,2404,"In an athlete presenting with exercise-induced pain along the distal two-thirds of the posteromedial tibial border, how would you interpret the finding that periosteal edema and tibialis posterior tendinous abnormalities are both frequently present in individuals with and without medial tibial stress syndrome, and how would this influence your reasoning about the underlying pathophysiology and clinical evaluation of MTSS?"
+GPT-5.4,Med-Rag,9,497,"In an older adult presenting with a persistent unilateral eyelid lesion initially treated as inflammation but now showing progressive thickening, lash loss, and recurrent irritation, how would you evaluate for possible eyelid malignancy, including the key history, examination findings, differential diagnosis, and indications for biopsy and specialist referral?"
+GPT-5.4,Med-Rag,10,2480,"How would you counsel and risk-stratify a patient found to carry one versus two copies of the factor V Leiden mutation, including how the difference in inherited mutation burden influences annual thrombosis risk, clinical monitoring, and decisions about prevention in high-risk situations?"
+GPT-5.4,Med-Rag,11,471,"In a patient with clinical Stage IIA or III nonseminomatous germ cell tumor undergoing postchemotherapy retroperitoneal lymph node dissection, how would you assess the likelihood of finding viable tumor in the surgical specimen using the available preoperative and pathologic predictors, and how would you distinguish their predictive value from the prognostic significance of IGCCC risk classification for recurrence-free and disease-specific survival?"
+GPT-5.4,Med-Rag,12,246,"In a patient with preexisting renal insufficiency who is started on an ACE inhibitor and subsequently develops a modest early rise in serum creatinine or fall in GFR, how would you interpret these changes in light of the evidence on long-term renal protection, and how would this influence your decision to continue therapy and monitor renal function and potassium over time?"
+GPT-5.4,Med-Rag,13,923,"In a woman with repeated low-grade cervical cytologic abnormalities and an adequate, normal colposcopic examination, how would you use high-risk HPV testing by hybrid capture to guide the decision for excisional tissue sampling, and how do the reported sensitivity, specificity, and reduction in procedures influence your clinical reasoning for detecting CIN II/III?"
+GPT-5.4,Med-Rag,14,1131,"In an older heart transplant recipient who develops new-onset diabetes and serious infections during the first post-transplant year, how would you evaluate and manage post-transplant glucose abnormalities while balancing immunosuppressive therapy, infection risk, cardiovascular comorbidity, and the patient’s medium-term graft outcomes?"
+GPT-5.4,Med-Rag,15,670,"A newborn is noted to have a short neck, low posterior hairline, and limited cervical range of motion; how would you clinically evaluate for Klippel-Feil syndrome, and what associated neurological, musculoskeletal, cardiac, genitourinary, auditory, and craniofacial abnormalities would you specifically look for during the assessment?"
+GPT-5.4,Med-Rag,16,916,"In a patient presenting with progressive exertional dyspnea and suspected pulmonary hypertension, how would you distinguish pulmonary arterial hypertension related to HIV infection from pulmonary hypertension secondary to chronic lung disease, left-sided valvular disease, sleep apnea, thromboembolic disease, or sarcoidosis using the history, physical examination, and targeted diagnostic evaluation?"
+GPT-5.4,Med-Rag,17,1414,"In a child with a posterior fossa tumor and preoperative hydrocephalus, how would you decide between proceeding directly to early tumor resection versus performing a preoperative endoscopic third ventriculostomy, and how do factors such as the severity of hydrocephalus and the likelihood of medulloblastoma influence your assessment of the risk for persistent postoperative hydrocephalus?"
+GPT-5.4,Med-Rag,18,1606,"In an infant or child found to have hypermethioninemia, how would you approach the differential diagnosis to distinguish a primary defect in methionine metabolism from secondary causes such as liver disease, excessive dietary methionine intake, or associated metabolic disorders like homocystinuria, tyrosinemia, and galactosemia, and which clinical features and laboratory studies would most strongly guide your reasoning?"
+GPT-5.4,Med-Rag,19,402,"In a patient with disseminated stage III or IV low-grade lymphoma, how would you apply the International Prognostic Index at diagnosis to stratify prognosis and guide discussions about expected survival, treatment timing, and overall management, given the reported median survivals across the four IPI risk groups?"
+GPT-5.4,Med-Rag,20,1103,"In a newborn or young child presenting with poor feeding, lethargy, vomiting, and irritability, how would you clinically evaluate and differentiate 2-methylbutyryl-CoA dehydrogenase deficiency from other inborn errors of branched-chain amino acid metabolism, and what metabolic findings would support the diagnosis?"
+GPT-5.4,Med-Rag,21,2072,"In an infant presenting with hypopigmented skin and silvery-gray hair since early infancy, how would you clinically differentiate among the three types of Griscelli syndrome, and what associated neurologic, immunologic, and dermatologic findings would guide your diagnostic evaluation and urgency of management?"
+GPT-5.4,Med-Rag,22,719,"How does impaired PHGDH-mediated de novo serine biosynthesis in the central nervous system explain the major neurologic manifestations of phosphoglycerate dehydrogenase deficiency, particularly in relation to neurotransmitter synthesis, myelin formation, and brain development despite the presence of dietary serine?"
+GPT-5.4,Med-Rag,23,2011,"How would you explain to a patient the distinction between metastatic skin cancer involving the brain and a primary brain tumor, and how does this difference influence staging, prognosis, and overall management?"
+GPT-5.4,Med-Rag,24,2436,"A child presents with congenital ichthyosis, progressive lower-extremity spasticity, and developmental delay; based on the suspected diagnosis of Sjögren-Larsson syndrome, how would you structure the diagnostic evaluation to confirm the disorder, distinguish it from other neurocutaneous and inherited metabolic conditions, and develop a comprehensive long-term management plan that incorporates genetic testing, rehabilitation, symptomatic drug therapy, multidisciplinary follow-up, genetic counseling, and palliative care when appropriate?"
+GPT-5.4,Med-Rag,25,196,"In an elderly woman aged 70 years or older being evaluated for tension-free vaginal tape surgery for stress urinary incontinence, how would you assess and counsel her regarding perioperative cardiovascular and thromboembolic risk, given the reported age-related complications such as pulmonary embolism and cardiac arrhythmia despite similar overall procedural morbidity and continence outcomes compared with younger women?"
+GPT-5.4,Med-Rag,26,891,"How would you critically interpret the observed racial differences in counseling rates for diet, exercise, HIV/STD prevention, and mental health in adult primary care visits, and what potential patient-, clinician-, visit-, and health system-level factors should be considered when explaining why black patients appeared more likely to receive some preventive counseling but less likely to receive mental health counseling than white patients?"
+GPT-5.4,Med-Rag,27,1264,"In a neonate presenting with craniosynostosis, distinctive facial features, and upper-limb anomalies suggestive of Baller-Gerold syndrome, how would you integrate the history of maternal sodium valproate exposure with the possibility of an underlying RECQL4 mutation when formulating the differential diagnosis, counseling the family, and planning further genetic evaluation?"
+GPT-5.4,Med-Rag,28,1034,"How would you interpret the finding that higher CMS Part D medication adherence scores for diabetes medications, antihypertensives, and statins are moderately associated with corresponding Part C intermediate outcome measures, and what clinical, population-level, and health system factors would you consider when evaluating whether improving adherence metrics could causally improve glycemic, blood pressure, and cholesterol control in Medicare Advantage populations?"
+GPT-5.4,Med-Rag,29,1325,"In a woman presenting for counseling before a subsequent pregnancy after an index pregnancy complicated by pre-eclampsia or gestational hypertension, how would you interpret and communicate her risk of recurrence and progression to chronic hypertension, and which clinical or routine laboratory features from the index pregnancy would you consider most important in stratifying her risk and planning antenatal surveillance?"
+GPT-5.4,Med-Rag,30,509,"A patient with chronic kidney disease and hypertension asks why sodium restriction is important and how to follow a low-sodium diet safely; how would you explain the pathophysiologic effects of excess sodium on fluid balance, blood pressure, the heart, and the kidneys, and what specific dietary counseling would you provide regarding food labels, high-sodium foods to avoid, appropriate low-sodium alternatives, and the risks of potassium-containing salt substitutes in advanced CKD?"
+GPT-5.4,Med-Rag,31,1427,"In an adolescent or young adult patient undergoing intensive upper-body physical training, how would you interpret a pattern of increased pull-up performance, aerobic capacity, and lean body mass without a corresponding increase in supraspinatus tendon thickness, and what does this suggest about muscle-tendon adaptation, injury risk, and counseling regarding training progression?"
+GPT-5.4,Med-Rag,32,194,"In a male patient with suspected PPM-X syndrome presenting with developmental delay, behavioral abnormalities, hypertonia, gait disturbance, seizures, and possible cardiovascular involvement, how would you synthesize the phenotype to guide your differential diagnosis, targeted cardiovascular evaluation, and overall multidisciplinary management?"
+GPT-5.4,Med-Rag,33,1179,"In a patient with suspected Wernicke encephalopathy, how would you interpret diffusion-weighted MRI findings showing bright signal intensity with decreased apparent diffusion coefficient values in the bilateral paramedian thalami, mammillary bodies, and periaqueductal gray matter, and what do these changes suggest about the underlying type of edema, pathophysiology, and potential reversibility after thiamine treatment?"
+GPT-5.4,Med-Rag,34,2032,"In a patient population with repeated high-risk exposure to Mycobacterium tuberculosis, how would you interpret the finding that tuberculin skin test positivity is substantially lower in heavily exposed white individuals than in similarly exposed African American individuals, and what host, immunologic, epidemiologic, and test-related factors would you consider when reasoning whether this pattern reflects inherited resistance, differences in latent infection rates, or limitations of the TST as a marker of true infection?"
+GPT-5.4,Med-Rag,35,932,"In a patient with advanced HIV/AIDS who presents with chronic cough, weight loss, fever, night sweats, and possible hemoptysis, how would you evaluate and distinguish atypical mycobacterial infection from tuberculosis and other opportunistic pulmonary infections, and how would the patient’s immune status influence your diagnostic and treatment approach?"
+GPT-5.4,Med-Rag,36,1124,"In an older adult presenting with progressive forgetfulness, how would you evaluate whether thyroid dysfunction could be contributing to the cognitive symptoms, and what clinical features, laboratory tests, and differential diagnoses would help distinguish this from mild cognitive impairment, dementia, depression, medication effects, or other neurologic causes?"
+GPT-5.4,Med-Rag,37,1822,"How would you critically discuss the potential benefits and drawbacks of routinely using standardized depression severity questionnaires in newly diagnosed patients in general practice, particularly in relation to consultation dynamics, diagnostic validity, patient-centered care, and the preservation of GP professional judgement and identity?"
+GPT-5.4,Med-Rag,38,1366,"In a child with recurrent sinopulmonary infections and normal IgG and IgA levels, how would you evaluate and confirm selective IgM deficiency, distinguish it from secondary causes or other primary immunodeficiencies, and outline an evidence-based long-term management plan including infection prevention, vaccination strategy, and indications for prophylactic antibiotics or immunoglobulin replacement?"
+GPT-5.4,Med-Rag,39,1992,"In an alcohol-dependent man who has completed a 3-week abstinence-focused treatment program, how would you interpret the prognostic value of baseline depressive symptoms and lifetime major depression when assessing his 6-month risk of relapse, and what methodological limitations of this study should influence how confidently these findings are applied in clinical practice?"
+GPT-5.4,Med-Rag,40,1258,"A newborn is noted to have bilateral malar hypoplasia, micrognathia, downward-slanting palpebral fissures, lower eyelid colobomas, malformed external ears, and feeding difficulty with intermittent desaturation; how would you evaluate whether these findings are consistent with Treacher Collins syndrome, assess the immediate risks to airway, hearing, vision, and feeding, and prioritize the multidisciplinary management and family counseling?"
+GPT-5.4,Med-Rag,41,2274,"How would you develop a comprehensive management plan for a patient with hereditary angioedema that addresses both long-term prophylaxis and the treatment of acute attacks, including airway/hemodynamic support and the appropriate use of currently approved therapies such as C1 inhibitor replacement, ecallantide, and icatibant?"
+GPT-5.4,Med-Rag,42,1273,"In a high-risk sibling cohort where mothers received 5000 IU/day of vitamin D during pregnancy and infants received 1000 IU/day until age 3 years, how would you critically evaluate the validity of the reported reduction in autism recurrence from 20% in historical literature to 5% in this open-label, uncontrolled prospective study, and what key methodological features would you incorporate into a future study to better determine whether vitamin D supplementation has a causal protective effect?"
+GPT-5.4,Med-Rag,43,1936,"In a psychiatric inpatient service experiencing high nursing turnover, how would you evaluate the relative contribution of perceived leadership support, nurse–manager value congruence, and attitudes toward patient outcomes to turnover intent, and how might these factors inform targeted retention strategies?"
+GPT-5.4,Med-Rag,44,1266,"A newborn girl presents with sharply demarcated unilateral ichthyosiform erythroderma and ipsilateral limb defects, and her mother reports that a maternal aunt had similar skin findings. Based on the described X-linked dominant inheritance pattern and the near absence of affected liveborn males in CHILD syndrome, how would you explain the genetic mechanism, expected pedigree pattern, and implications for genetic counseling and recurrence risk in this family?"
+GPT-5.4,Med-Rag,45,772,"A neonate presents with poor feeding, vomiting, lethargy, seizures, and a distinctive sweaty-feet odor during an intercurrent illness; based on the pathophysiology of isovaleric acidemia, how would you explain the biochemical basis of this presentation, outline the key diagnostic workup, and discuss the acute and long-term management strategies, including prevention of metabolic decompensation during infections or fasting?"
+GPT-5.4,Med-Rag,46,1608,"In a patient with advanced hepatocellular carcinoma involving major vascular or biliary structures, how would you evaluate the potential role of hepatic resection combined with adjunctive procedures such as portal vein thrombectomy, inferior vena cava resection or thrombectomy, bile duct tumor extraction, or intraoperative ethanol injection, and how would the reported survival differences among these subgroups influence your surgical decision-making and postoperative management strategy?"
+GPT-5.4,Med-Rag,47,1311,"In an infant with suspected spondylocostal dysostosis type 2 who presents with respiratory distress and a small, rigid thorax, how would you approach the clinical evaluation to confirm the diagnosis, assess the severity of thoracic insufficiency and associated skeletal abnormalities, and plan multidisciplinary management including genetic counseling for an autosomal recessive MESP2-related disorder?"
+GPT-5.4,Med-Rag,48,134,"In a patient presenting with hypertension, thrombocytopenia, microangiopathic hemolytic anemia, and acute kidney injury, how would you differentiate atypical hemolytic-uremic syndrome from other causes of thrombotic microangiopathy and explain the role of complement dysregulation, potential genetic predisposition, and relevant environmental triggers in guiding diagnosis and management?"
+GPT-5.4,Med-Rag,49,1855,"A kidney transplant recipient develops delayed graft function shortly after surgery and later becomes increasingly anxious, demoralized, and preoccupied with the possibility of graft loss and death after reading about studies linking delayed graft function to poorer long-term outcomes. How would you conduct a psychiatric assessment and formulate a management plan that integrates the patient’s emotional response, illness perceptions, medical uncertainty, and the evidence suggesting a potentially causal relationship between delayed graft function and adverse graft and mortality outcomes?"
+GPT-5.4,Med-Rag,50,2399,"In a child suspected of having Ohdo syndrome, SBBYS variant (a KAT6B-related disorder), how would you structure a comprehensive diagnostic evaluation and longitudinal management plan, including confirmation of the genetic diagnosis, assessment for multisystem involvement, coordination of supportive therapies and surgical interventions when indicated, and counseling the family regarding prognosis, recurrence risk, and palliative care considerations?"
+GPT-5.4,Self-Instruct,1,1593,How does the MELD score integrate markers of liver and kidney dysfunction to estimate short-term mortality risk?
+GPT-5.4,Self-Instruct,2,196,"How does the pathogenesis of Myasthenia Gravis account for fluctuating ocular, bulbar, and generalized muscle involvement in clinical practice?"
+GPT-5.4,Self-Instruct,3,239,Summarize the role of weight reduction in idiopathic intracranial hypertension and describe how bariatric surgery may alter long-term outcomes.
+GPT-5.4,Self-Instruct,4,2126,"Which causes of tricuspid regurgitation are most likely to require surgical or transcatheter intervention, and what clinical factors support escalation beyond medical therapy?"
+GPT-5.4,Self-Instruct,5,1587,"What laboratory variables are included in the MELD score, and why do they reflect severity of chronic liver disease?"
+GPT-5.4,Self-Instruct,6,1934,Compare available therapeutic options for Huntington’s disease and explain how pathophysiologic insight influences their use and limitations.
+GPT-5.4,Self-Instruct,7,1662,"Develop a clinically reasoned treatment algorithm for a patient with multisystem sarcoidosis who has pulmonary decline, hypercalcemia, and ocular involvement."
+GPT-5.4,Self-Instruct,8,486,"Discuss how insulin administration, correction of acidosis, and volume resuscitation interact to alter potassium balance during DKA treatment."
+GPT-5.4,Self-Instruct,9,790,"Detail how the Duke Criteria are applied in a patient with fever, a new regurgitant murmur, and suspected infective endocarditis."
+GPT-5.4,Self-Instruct,10,2078,Discuss the clinical reasoning behind monitoring strategies and follow-up intervals for patients at different stages of pulmonary hypertension.
+GPT-5.4,Self-Instruct,11,2350,"Clarify the supportive care priorities in CLL staging management, including infection prevention, vaccination, and monitoring for secondary malignancies."
+GPT-5.4,Self-Instruct,12,1322,Compare the expected hemoglobin trends and mean corpuscular volume patterns in early versus established iron deficiency anemia and anemia of chronic disease.
+GPT-5.4,Self-Instruct,13,170,"What guideline-directed steps should be prioritized in the initial 30 minutes of status epilepticus, and how should treatment escalate if seizures persist?"
+GPT-5.4,Self-Instruct,14,44,"Discuss how the presentation of acute infective endocarditis varies between native-valve, prosthetic-valve, and device-related infection."
+GPT-5.4,Self-Instruct,15,56,Discuss the role of permanent pacemaker insertion in asymptomatic versus symptomatic patients with chronic AV conduction disease.
+GPT-5.4,Self-Instruct,16,175,"Detail the time-sensitive treatment priorities for early status epilepticus, including monitoring, laboratory evaluation, and medication selection."
+GPT-5.4,Self-Instruct,17,1580,Describe the concept of the HIV window period and analyze why fourth-generation tests have become the preferred standard in guideline-based testing strategies.
+GPT-5.4,Self-Instruct,18,1718,"Discuss how you would evaluate disease severity and extent in pemphigus vulgaris before initiating treatment, and explain how this assessment influences management."
+GPT-5.4,Self-Instruct,19,1453,Evaluate the role of the Beers Criteria in deprescribing and medication reconciliation during hospital discharge for older adults.
+GPT-5.4,Self-Instruct,20,1134,How does the pathophysiology of progressive insulin resistance in pregnancy influence the decision to initiate insulin rather than continue dietary therapy alone?
+GPT-5.4,Self-Instruct,21,2071,Analyze the role of risk stratification in determining management priorities at different stages of pulmonary hypertension.
+GPT-5.4,Self-Instruct,22,410,"Which microvascular complication typically appears earliest in uncontrolled Type 2 diabetes, and how should that risk influence long-term surveillance strategies?"
+GPT-5.4,Self-Instruct,23,2053,"Summarize guideline-based management of narcolepsy during pregnancy or lactation, highlighting how risk-benefit reasoning alters standard therapy."
+GPT-5.4,Self-Instruct,24,1688,"How should lifestyle modification, alcohol reduction, dietary counseling, and management of metabolic syndrome be integrated into the treatment of gouty tophus?"
+GPT-5.4,Self-Instruct,25,1972,Summarize the indications for referral for lung transplantation or liver transplantation in advanced Alpha-1 Antitrypsin Deficiency.
+GPT-5.4,Self-Instruct,26,528,"Interpret a pleural fluid profile using Light’s criteria: pleural protein 3.8 g/dL, serum protein 6.0 g/dL, pleural LDH 240 U/L, serum LDH 300 U/L, with a laboratory upper limit of normal serum LDH of 200 U/L."
+GPT-5.4,Self-Instruct,27,2073,What is the recommended management pathway for pulmonary hypertension patients who deteriorate despite initial monotherapy?
+GPT-5.4,Self-Instruct,28,1178,Describe the laboratory studies you would obtain to separate physiological jaundice from pathological jaundice in a neonate on day 3 of life.
+GPT-5.4,Self-Instruct,29,1299,Elucidate how the Apgar score is calculated and interpret its significance for immediate neonatal assessment at the 1-minute and 5-minute marks.
+GPT-5.4,Self-Instruct,30,1117,Detail why digital vaginal examination is contraindicated in suspected placenta previa and how this precaution influences the diagnostic sequence.
+GPT-5.4,Self-Instruct,31,527,Why do inflammatory and malignant pleural processes typically meet Light’s criteria for exudative effusions?
+GPT-5.4,Self-Instruct,32,2113,Explain the indications for medical therapy in mitral valve prolapse and identify which symptoms or hemodynamic findings justify pharmacologic treatment.
+GPT-5.4,Self-Instruct,33,789,Examine the limitations of the Duke Criteria in culture-negative infective endocarditis and prosthetic valve infection.
+GPT-5.4,Self-Instruct,34,1339,"Explain the evidence-based acute management of a sickle cell vaso-occlusive crisis in an adult presenting to the emergency department, including analgesia escalation, hydration strategy, and monitoring for early complications."
+GPT-5.4,Self-Instruct,35,1283,Summarize the indications for hospital admission or specialist referral in children presenting with febrile seizures.
+GPT-5.4,Self-Instruct,36,1452,Discuss the limitations of the Beers Criteria and explain why it should not be used as a rigid prohibition list in elderly care.
+GPT-5.4,Self-Instruct,37,1803,Detail the recommended approach to ocular Behcet’s disease when vision-threatening inflammation is present despite initial therapy.
+GPT-5.4,Self-Instruct,38,173,"Summarize the critical interventions required within 30 minutes of status epilepticus onset, integrating bedside assessment, reversible causes, and early pharmacologic management."
+GPT-5.4,Self-Instruct,39,2208,"Formulate an advanced clinical question set on aneurysm screening that tests reasoning about guideline eligibility, incidental findings, and surveillance planning."
+GPT-5.4,Self-Instruct,40,1717,What clinical factors should guide the choice between high-dose systemic corticosteroids alone and early rituximab-based therapy in pemphigus vulgaris?
+GPT-5.4,Self-Instruct,41,1298,Compare the clinical implications of a normal 5-minute Apgar score following a depressed 1-minute score with those of persistently abnormal scores.
+GPT-5.4,Self-Instruct,42,188,"Evaluate a patient with symmetric bradykinesia, early falls, and axial rigidity; which diagnosis is more likely, and why?"
+GPT-5.4,Self-Instruct,43,211,"Discuss how the timing, severity, and associated signs of headache in subarachnoid hemorrhage guide urgent diagnostic reasoning."
+GPT-5.4,Self-Instruct,44,1025,Trace the conceptual shift from identifying systemic inflammation to identifying dysregulated host response with organ dysfunction in sepsis definitions.
+GPT-5.4,Self-Instruct,45,2075,"Summarize the hemodynamic, symptomatic, and functional features that influence stage-specific treatment planning in pulmonary hypertension."
+GPT-5.4,Self-Instruct,46,1550,What pathophysiologic mechanisms link progressive loss of skeletal muscle mass and strength to frailty in geriatric populations?
+GPT-5.4,Self-Instruct,47,1334,Summarize the key pathophysiologic similarities and differences between Hemophilia A and Hemophilia B for an advanced medical audience.
+GPT-5.4,Self-Instruct,48,2518,Discuss how you would manage a pediatric patient with markedly elevated celiac serologies and whether biopsy can be safely deferred under guideline-based care.
+GPT-5.4,Self-Instruct,49,1954,Analyze the appropriate use of HFE genetic testing in the screening pathway and clarify when it is indicated versus when it may lead to overtesting.
+GPT-5.4,Self-Instruct,50,387,Detail the pathophysiologic rationale for using beta-2 microglobulin and albumin as core components of staging in multiple myeloma.
+GPT-5.4,WizardLM,1,1593,"Explain the clinical management of Celiac Disease Serology, including when to repeat testing and how results guide follow-up decisions."
+GPT-5.4,WizardLM,2,196,"Explain the clinical management of Irritable Bowel Syndrome (IBS) subtypes, including subtype-specific treatments, diagnostic considerations, and key differences in first-line management."
+GPT-5.4,WizardLM,3,239,"Outline the criteria for diagnosing Polycystic Ovary Syndrome (PCOS) using the Rotterdam Criteria, and briefly explain each criterion step by step, including any required exclusions."
+GPT-5.4,WizardLM,4,2126,"Outline the multidisciplinary management of SAPHO syndrome, including diagnostic challenges, pharmacologic options, and monitoring strategies."
+GPT-5.4,WizardLM,5,1587,"Explain the clinical management of Barrett's Esophagus Surveillance in a stepwise format, and include key surveillance interval recommendations by dysplasia status."
+GPT-5.4,WizardLM,6,1934,"Explain the clinical management of Erythema Nodosum, including differential diagnosis, common underlying causes, recommended investigations, treatment options, and indications for specialist referral."
+GPT-5.4,WizardLM,7,1662,How does HIV viral load monitoring influence treatment decisions and prognosis in antiretroviral therapy?
+GPT-5.4,WizardLM,8,486,"Explain the pathophysiology, diagnostic criteria, maternal-fetal risks, and what the definitive treatment for 'HELLP Syndrome' is."
+GPT-5.4,WizardLM,9,790,"Explain the clinical management of gastroparesis, including diagnosis, first-line and refractory treatments, nutritional support, complications, and evidence-based patient-specific management considerations."
+GPT-5.4,WizardLM,10,2078,"Explain the 'SIRS' criteria, including specific diagnostic thresholds, historical limitations, and its evolution toward the SOFA score in modern sepsis definitions."
+GPT-5.4,WizardLM,11,2350,"Explain the clinical management of Hemochromatosis Screening, including risk stratification, diagnostic criteria, follow-up protocols, and implications for asymptomatic first-degree relatives."
+GPT-5.4,WizardLM,12,1322,"Explain the biochemical and clinical components of the MELD score in liver transplant prioritization, including how each variable influences urgency and allocation decisions."
+GPT-5.4,WizardLM,13,170,"Explain the clinical management of left atrial myxoma, including characteristic signs, diagnostic evaluation, perioperative treatment, surgical resection, and postoperative surveillance."
+GPT-5.4,WizardLM,14,44,"Explain the Model for End-Stage Liver Disease (MELD) score, including bilirubin, INR, creatinine, and sodium, and its role in deceased-donor liver transplant waitlist prioritization."
+GPT-5.4,WizardLM,15,56,"What are the characteristic biopsy findings in Minimal Change Disease? Explain step by step, correlating light microscopy, immunofluorescence, and electron microscopy findings."
+GPT-5.4,WizardLM,16,175,"Summarize the evidence-based inpatient and outpatient clinical management of immune-mediated Heparin-Induced Thrombocytopenia (type II HIT), including diagnosis, anticoagulant substitution, platelet monitoring, and thrombosis prevention."
+GPT-5.4,WizardLM,17,1580,"Explain the clinical management of CLL staging, outlining step-by-step reasoning, risk stratification, treatment indications, monitoring, and stage-specific therapeutic decisions."
+GPT-5.4,WizardLM,18,1718,Analyze the diagnostic and treatment dilemmas of XDR-TB in conflict-affected healthcare systems with disrupted drug supply chains.
+GPT-5.4,WizardLM,19,1453,How does porto-pulmonary hypertension develop in the setting of advanced cirrhosis?
+GPT-5.4,WizardLM,20,1134,Outline the diagnostic workup and treatment strategy for livedoid vasculopathy.
+GPT-5.4,WizardLM,21,2071,"What are the clinical, imaging, and laboratory indications for urgent versus elective surgical intervention in a patient with a small bowel obstruction?"
+GPT-5.4,WizardLM,22,410,"Using non-contrast CT imaging, differentiate ischemic and hemorrhagic stroke, including key radiologic signs, common mimics, diagnostic limitations, and implications for immediate acute management."
+GPT-5.4,WizardLM,23,2053,"Explain the pathophysiological mechanisms underlying type 1 and type 2 Hepatorenal Syndrome in advanced cirrhosis, including splanchnic vasodilation, reduced effective arterial blood volume, and renal vasoconstriction."
+GPT-5.4,WizardLM,24,1688,Compare the clinical utility of anti-Müllerian hormone and inhibin B as biomarkers of granulosa cell function in assessing diminished ovarian reserve.
+GPT-5.4,WizardLM,25,1972,"Explain the clinical management of Thrombotic Thrombocytopenic Purpura (TTP), including diagnosis, first-line and refractory treatments, monitoring, complications, and key differences between congenital and acquired forms."
+GPT-5.4,WizardLM,26,528,"Describe the multidisciplinary management of Takayasu arteritis, including diagnostic evaluation, pharmacologic treatment, monitoring strategies, and indications for vascular intervention."
+GPT-5.4,WizardLM,27,2073,"Explain the trauma surgery “lethal triad” in polytrauma resuscitation: metabolic acidosis, trauma-induced coagulopathy, and accidental hypothermia."
+GPT-5.4,WizardLM,28,1178,"Explain the clinical management of Myelofibrosis Clinical Signs, emphasizing evidence-based interventions and briefly noting key diagnostic pitfalls to avoid."
+GPT-5.4,WizardLM,29,1299,"Explain the 'Apgar Score' and its significance at 1 and 5 minutes, and include one brief example of clinical interpretation."
+GPT-5.4,WizardLM,30,1117,"Explain the fundamental physical principles, biological effects, safety considerations, and clinical differences between ionizing radiation (CT) and non-ionizing radiation (MRI)."
+GPT-5.4,WizardLM,31,527,"Explain the clinical management of Sarcoidosis, and include a brief comparison of first-line versus steroid-sparing treatment options."
+GPT-5.4,WizardLM,32,2113,How is methanol poisoning treated with fomepizole?
+GPT-5.4,WizardLM,33,789,Discuss the diagnostic workup and treatment strategy for Killian-Jamieson diverticulum.
+GPT-5.4,WizardLM,34,1339,"Explain the clinical management of Wegener's Granulomatosis, including first-line treatment, monitoring strategies, and key contraindications to avoid."
+GPT-5.4,WizardLM,35,1283,"Describe the management of Shoulder Dystocia using the HELPERR mnemonic, and include one brief caution about avoiding excessive fetal traction."
+GPT-5.4,WizardLM,36,1452,Distinguish acute tubular necrosis from acute interstitial nephritis using urine microscopy and urinary indices.
+GPT-5.4,WizardLM,37,1803,"Describe the clinical signs and diagnostic workup for acute infective endocarditis, and include one key pitfall that may delay diagnosis in early presentations."
+GPT-5.4,WizardLM,38,173,"Explain the clinical management of Immune Thrombocytopenia (ITP), including diagnostic workup, first- and second-line treatments, emergency bleeding management, and special considerations in pregnancy and children."
+GPT-5.4,WizardLM,39,2208,"Explain the role of cardiac biomarkers (Troponin I vs. T) in the diagnosis of NSTEMI, and include one brief note on potential false-positive elevations."
+GPT-5.4,WizardLM,40,1717,Explain the difference between ionizing electromagnetic radiation used in computed tomography (CT) and non-ionizing radiofrequency fields used in magnetic resonance imaging (MRI).
+GPT-5.4,WizardLM,41,1298,Describe the acute evaluation and evidence-based management of simple and complex febrile seizures in pediatric patients aged 6 months to 5 years.
+GPT-5.4,WizardLM,42,188,Outline the perioperative management of Zenker’s diverticulum including diagnostic evaluation.
+GPT-5.4,WizardLM,43,211,Which subtle prodromal neurological signs and early electromyographic or bulbar clinical indicators most strongly suggest the onset of Amyotrophic Lateral Sclerosis (ALS)?
+GPT-5.4,WizardLM,44,1025,"In male breast cancer patients, what clinical and family history criteria warrant PALB2 germline testing, and how might a positive result influence cancer surveillance recommendations for relatives?"
+GPT-5.4,WizardLM,45,2075,"Differentiate between incarcerated and strangulated hernias, and explain the distinction step by step, including blood supply, urgency, and clinical consequences."
+GPT-5.4,WizardLM,46,1550,"Explain the clinical management of Hemochromatosis Screening, including current screening guidelines, diagnostic thresholds, risk stratification, follow-up protocols, and key controversies in practice."
+GPT-5.4,WizardLM,47,1334,"Explain the evidence-based clinical management of biopsy-confirmed Erythema Nodosum, including differential diagnosis, etiologic workup, first-line treatment, and specialist referral indications."
+GPT-5.4,WizardLM,48,2518,"Discuss the clinical diagnostic, pharmacologic, adherence, and infection-control challenges of managing multidrug-resistant pulmonary tuberculosis in low-income rural healthcare settings with limited laboratory capacity."
+GPT-5.4,WizardLM,49,1954,Compare the diagnostic workup and long-term occupational health surveillance strategies for Chronic Beryllium Disease versus Hard Metal Lung Disease.
+GPT-5.4,WizardLM,50,387,Describe the diagnostic workup and long-term follow-up strategy for gastric intestinal metaplasia in high-risk patients.
+GPT-5.4,Stratified Sampling,1,1948,What medications are used to treat atrial arrhythmias?
+GPT-5.4,Stratified Sampling,2,174,What is coronary artery disease?
+GPT-5.4,Stratified Sampling,3,508,How do health services differ in access to funding for people with speech disorders after consultation?
+GPT-5.4,Stratified Sampling,4,271,Does septal perforation repair cause endothelial cell loss?
+GPT-5.4,Stratified Sampling,5,1081,Can cardiovascular risk factor modification reduce the excess risk of coronary artery disease in obese adolescents?
+GPT-5.4,Stratified Sampling,6,1640,"Can obesity increase disease incidence in adults, and is assessment of body size inequality part of formal health management?"
+GPT-5.4,Stratified Sampling,7,3485,"What are the outcomes of different procedures used to assess or treat the hip, including soft nail fixation or replacement techniques?"
+GPT-5.4,Stratified Sampling,8,1712,What are the symptoms of a fatty acid oxidation disorder that can cause fatty acid buildup?
+GPT-5.4,Stratified Sampling,9,584,"What is the accuracy of cardiopulmonary imaging, and is additional cine radiography necessary after a lung biopsy if digital imaging is inconclusive?"
+GPT-5.4,Stratified Sampling,10,373,Can coronary heart disease risk be influenced by established cardiovascular risk factors present since childhood?
+GPT-5.4,Stratified Sampling,11,2867,Is the diagnosis of thyroidectomy-related complications dependent on the need for specialized evaluation of cerebellar abnormalities?
+GPT-5.4,Stratified Sampling,12,3658,Is there a scientific distinction between laparoscopic and thoracoscopic detection after incisions?
+GPT-5.4,Stratified Sampling,13,1258,Can surgery involving the coronary arteries affect the pericardium?
+GPT-5.4,Stratified Sampling,14,3243,Is there significant improvement in the severity of epilepsy compared with a patient with pernicious anemia?
+GPT-5.4,Stratified Sampling,15,1319,Does daily tungsten consumption affect blood glucose levels or diabetes mellitus risk?
+GPT-5.4,Stratified Sampling,16,3700,Does patellofemoral replacement affect the length or alignment of the knee joint?
+GPT-5.4,Stratified Sampling,17,2988,What effect do predictive factors have on the survival of women by age with fetal or pregnancy-associated cancer?
+GPT-5.4,Stratified Sampling,18,3653,"Are there differences in the rate of surgical procedures in a multi-hospital environment, and do advanced implants affect clinical protocols and procedures?"
+GPT-5.4,Stratified Sampling,19,2192,How does nicotine exposure affect skin temperature in adults?
+GPT-5.4,Stratified Sampling,20,342,What condition can cause chest wall deformity and macroglossia?
+GPT-5.4,Stratified Sampling,21,3546,"What are the concerns regarding receptor absorption in the nervous system, and is the use of antianginal medication safe in patients with stomach disorders?"
+GPT-5.4,Stratified Sampling,22,480,"What are the potentially life-threatening pediatric conditions in adults and children, and which diagnostic tools are used to identify them?"
+GPT-5.4,Stratified Sampling,23,180,"What are the symptoms of colonic obstruction, and is a penetrating aortic ulcer associated with any specific syndrome?"
+GPT-5.4,Stratified Sampling,24,1168,Is it safe to undergo routine lung cancer surgery before correction of hypercalcemia?
+GPT-5.4,Stratified Sampling,25,787,Can liver injury be associated with ingestion of toothpaste?
+GPT-5.4,Stratified Sampling,26,2460,How does regular treatment for post-traumatic stress disorder affect a person's ability to manage comorbid depression?
+GPT-5.4,Stratified Sampling,27,1956,Is it recommended to treat sepsis or cholera after intravenous treatment complications?
+GPT-5.4,Stratified Sampling,28,803,Is there geographic variation in dietary intake and healthcare utilization associated with social deprivation?
+GPT-5.4,Stratified Sampling,29,3345,What is the treatment for people with chronic kidney disease and related metabolic acid-base disorders such as acidemias?
+GPT-5.4,Stratified Sampling,30,128,What are the symptoms of type II epiphyseal dysplasia?
+GPT-5.4,Stratified Sampling,31,1927,Is femoral vein patency still demonstrable after a preliminary assessment of inguinal vascular disease?
+GPT-5.4,Stratified Sampling,32,2016,"When using advanced imaging techniques, do serum collagen biomarkers affect the diagnosis of cancer?"
+GPT-5.4,Stratified Sampling,33,1214,Do cerebrovascular remodeling and related interventions improve short-term or long-term outcomes in patients with brain tumors?
+GPT-5.4,Stratified Sampling,34,1597,What treatments are available for aphasia?
+GPT-5.4,Stratified Sampling,35,46,How much research is being done to develop clinical trials for Zollinger-Ellison syndrome or SCID syndrome?
+GPT-5.4,Stratified Sampling,36,3159,"What is the prevalence of apolipoprotein activity in patients with hematologic disorders, and how does it relate to urinary symptoms?"
+GPT-5.4,Stratified Sampling,37,881,"How do people manage hormone-related disorders, and what factors influence long-term donor commitment in related treatment programs?"
+GPT-5.4,Stratified Sampling,38,3285,Is the diagnosis of benign prostatic hyperplasia valid unless a testicular neoplasm is identified?
+GPT-5.4,Stratified Sampling,39,336,What conditions are associated with high blood sugar and increased adipose tissue?
+GPT-5.4,Stratified Sampling,40,2063,Which clinical rating scales are used to assess and quantify symptoms of depression?
+GPT-5.4,Stratified Sampling,41,3214,"What is the incidence of polycystic kidney disease, and are some forms hormone-related?"
+GPT-5.4,Stratified Sampling,42,2335,Can respiratory stress precede sleep-related breathing disorders?
+GPT-5.4,Stratified Sampling,43,2561,What treatment approaches are effective for problematic substance use situations?
+GPT-5.4,Stratified Sampling,44,333,What symptoms are associated with this syndrome?
+GPT-5.4,Stratified Sampling,45,576,Can you provide information about thrombophlebitis or kidney disease?
+GPT-5.4,Stratified Sampling,46,1067,What is hereditary hemochromatosis?
+GPT-5.4,Stratified Sampling,47,3323,Can a nasal tampon or catheter be inserted to control localized epistaxis?
+GPT-5.4,Stratified Sampling,48,3430,What are the symptoms of an esophageal tumor?
+GPT-5.4,Stratified Sampling,49,1251,Do prolonged cardiopulmonary bypass times affect outcomes after heart surgery?
+GPT-5.4,Stratified Sampling,50,226,What genetic changes are associated with hereditary alopecia syndromes?
+GPT-5.4,Global Sampling,1,1408,How can dermatitis or gastritis be prevented?
+GPT-5.4,Global Sampling,2,565,Can different medications and psychotherapy improve overall functioning in a young person with dissociative disorders?
+GPT-5.4,Global Sampling,3,423,What are the different treatments for chronic ovarian cancer and cystic artery inflammation?
+GPT-5.4,Global Sampling,4,1506,When should you see a doctor for a skin irritation caused by an insect bite or bug exposure?
+GPT-5.4,Global Sampling,5,465,Should acute physical injuries sustained in rural hospitals and other rural centers be taken seriously in children?
+GPT-5.4,Global Sampling,6,623,What are the treatments for chronic ovarian cancer and cystic artery inflammation?
+GPT-5.4,Global Sampling,7,1166,Do psychologists measure the same level of emotional functioning in a young person with ADHD?
+GPT-5.4,Global Sampling,8,459,Are there specific dietary instructions to follow when taking a medication such as tafamidis?
+GPT-5.4,Global Sampling,9,658,Are there specific nutrition guidelines or dietary restrictions when taking a lipid-lowering medication?
+GPT-5.4,Global Sampling,10,569,What information can a CT scan provide about gas-related conditions in the head?
+GPT-5.4,Global Sampling,11,875,"How does pain affect chest wall integrity, and can a gas delivery disorder be caused by rupture of the intercostal muscles?"
+GPT-5.4,Global Sampling,12,2065,Should acute physical injuries sustained in rural hospitals and other rural centers be taken seriously in children?
+GPT-5.4,Global Sampling,13,699,"Who should receive bronchodilator injections, and why are they prescribed for asthma?"
+GPT-5.4,Global Sampling,14,603,"What factors affect a person's risk of a premature heart attack and type 1 diabetes, and is there an inverse relationship with the severity of chronic diabetes?"
+GPT-5.4,Global Sampling,15,1484,How many people are affected by mitochondrial disorders or glycoprotein deficiencies?
+GPT-5.4,Global Sampling,16,764,What is the specificity of exposure-based therapy for social anxiety disorder?
+GPT-5.4,Global Sampling,17,1666,What factors influence the cost of hospital admission during a medical emergency?
+GPT-5.4,Global Sampling,18,133,Is hepatic syndrome a valid diagnosis when cardiopulmonary edema occurs in the setting of underlying heart disease?
+GPT-5.4,Global Sampling,19,1893,What are the chronic effects of abnormal brain development on synaptic function?
+GPT-5.4,Global Sampling,20,496,How does increased retrograde pressure affect renal function in patients with kidney inflammation?
+GPT-5.4,Global Sampling,21,1083,What causes a high heart rate or forceful heart contractions?
+GPT-5.4,Global Sampling,22,1196,Is time-dependent clinical involvement correlated with residual cancer in pediatric cancer?
+GPT-5.4,Global Sampling,23,1069,What should a person do if they forget a dose of a medication?
+GPT-5.4,Global Sampling,24,853,Can CT scans and ultrasound diagnose advanced cystic lesions or bone and vascular cancer when there has been no assessment of the patient's anatomy?
+GPT-5.4,Global Sampling,25,1821,"What is the treatment for a cerebrospinal aneurysm, and what is the role of low-glucose cerebrospinal fluid findings?"
+GPT-5.4,Global Sampling,26,2080,What causes different levels of pain and inflammation in diabetes mellitus?
+GPT-5.4,Global Sampling,27,1772,"What is the function of the pleura, and can pleural disease affect the kidneys?"
+GPT-5.4,Global Sampling,28,577,Does smoking increase or reduce the risk of asthma in a child?
+GPT-5.4,Global Sampling,29,584,How are femoral instability and spinal cord axonal injury evaluated in a patient with an implanted defibrillator?
+GPT-5.4,Global Sampling,30,1204,Should differences in blood glucose levels and diet quality be taken into account when evaluating the health and lifestyle of people with gestational diabetes?
+GPT-5.4,Global Sampling,31,1335,Do age-specific metabolic factors contribute to an increased risk of pain in central nervous system vascular disease?
+GPT-5.4,Global Sampling,32,1826,Is there an increased incidence of epilepsy or gastrointestinal dysmotility in people with Parkinson's disease?
+GPT-5.4,Global Sampling,33,33,Does prolonged labor and delivery affect pregnancy outcomes compared with lower-than-average fetal growth or maternal arthritis?
+GPT-5.4,Global Sampling,34,1097,"Who should receive treatment for leprosy, and why is it prescribed?"
+GPT-5.4,Global Sampling,35,1551,How does fetal edema affect arterial blood flow and intracranial pressure following cardiac injury?
+GPT-5.4,Global Sampling,36,870,What should you do if you forget a dose of Betaspermone or a Snazeazole medication?
+GPT-5.4,Global Sampling,37,1413,"Is the prognosis of laryngomalacia better when the original laryngeal disorder is less severe, and worse when the patient has a serious neurologic condition?"
+GPT-5.4,Global Sampling,38,62,How do selective antidepressants affect the development of personality disorders or suicidal behavior?
+GPT-5.4,Global Sampling,39,558,What are the symptoms of emphysema and dermatitis?
+GPT-5.4,Global Sampling,40,1002,"What are the symptoms and pathophysiology of primary motor dysfunction in the peripheral nervous system, also called peripheral neuropathy?"
+GPT-5.4,Global Sampling,41,1628,What are the genetics and morphology of an inherited palindromic syndrome?
+GPT-5.4,Global Sampling,42,269,What should a person do if they forget a dose of a prescribed medication?
+GPT-5.4,Global Sampling,43,108,Should you see a doctor for a suspected hypertension-related tumor variant?
+GPT-5.4,Global Sampling,44,1063,How can clinicians estimate the risk of severe extravascular hemolysis in a school-aged child?
+GPT-5.4,Global Sampling,45,887,How many people are affected by atherosclerosis?
+GPT-5.4,Global Sampling,46,319,"Can hyperglycemia or toxemia in a child contribute to developmental disadvantage, and is increased calorie retention in adolescents beneficial?"
+GPT-5.4,Global Sampling,47,1664,How are hospital admission decisions made in the management of pediatric trauma?
+GPT-5.4,Global Sampling,48,452,Is computed imaging or thrombolysis more likely to diagnose or treat a caustic or ectopic tumor-related injury?
+GPT-5.4,Global Sampling,49,1369,Is a CT scan useful for evaluating gas-related conditions or head injuries?
+GPT-5.4,Global Sampling,50,1998,Do salivary biomarkers influence cancer prevention and treatment strategies in breast cancer?

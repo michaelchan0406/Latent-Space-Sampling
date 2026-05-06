@@ -1,0 +1,8 @@
+Family,Method,Source Key,MMD ↓,FBD ↓,KL ↓
+Gemini-3-Flash,M1,M1 Gemini3-f,0.000200 ± 0.000004,0.4317 ± 0.0040,0.5065 ± 0.0214
+Gemini-3-Flash,M2,M4 Gemini3-f,0.000289 ± 0.000005,0.5195 ± 0.0059,0.3488 ± 0.0223
+Gemini-3-Flash,Med-Rag,Med-Rag-gemini3-f,0.000324 ± 0.000004,0.3692 ± 0.0024,0.1652 ± 0.0136
+Gemini-3-Flash,Self-Instruct,Self-instruct_gemini3-f,0.000160 ± 0.000003,0.3259 ± 0.0019,0.3469 ± 0.0348
+Gemini-3-Flash,WizardLM,WizardLM-gemini3-f,0.000274 ± 0.000005,0.4098 ± 0.0032,0.4055 ± 0.0355
+Gemini-3-Flash,Stratified Sampling,Ours-gemini3f-stratifiedL2,0.000052 ± 0.000002,0.2330 ± 0.0020,0.1152 ± 0.0256
+Gemini-3-Flash,Global Sampling,global_gmm_gemini3-f,0.000073 ± 0.000002,0.3502 ± 0.0042,0.1988 ± 0.0284

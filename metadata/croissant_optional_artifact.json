@@ -1,0 +1,101 @@
+{
+  "@context": {
+    "@language": "en",
+    "sc": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "@type": "sc:Dataset",
+  "conformsTo": "http://mlcommons.org/croissant/1.1",
+  "name": "MEDALS artifact metadata",
+  "description": "Optional metadata for a MEDALS code/evaluation-method artifact. The artifact contains code, prompts, configuration files, and evaluation scripts. It references public source datasets by URL and does not redistribute PubMedQA, MedQuAD, the Kaggle Questions vs Statements Classification dataset, or a fixed generated benchmark dataset as a new data contribution.",
+  "url": "https://anonymous.4open.science/r/Latent-Space-Sampling-BD8C/",
+  "license": "See repository license file",
+  "version": "anonymous-submission",
+  "keywords": [
+    "medical LLM evaluation",
+    "benchmark generation",
+    "latent sampling",
+    "evaluation methodology",
+    "code artifact"
+  ],
+  "creator": [
+    {
+      "@type": "sc:Organization",
+      "name": "Anonymous authors"
+    }
+  ],
+  "distribution": [
+    {
+      "@id": "medals_artifact_repository",
+      "@type": "cr:FileObject",
+      "name": "MEDALS anonymous artifact repository",
+      "description": "Anonymous repository containing code, prompts, configuration files, metadata, and evaluation scripts. It does not contain redistributed copies of PubMedQA, MedQuAD, or the Kaggle Questions vs Statements dataset.",
+      "contentUrl": "https://anonymous.4open.science/r/Latent-Space-Sampling-BD8C/",
+      "encodingFormat": "text/html"
+    },
+    {
+      "@id": "source_datasets_metadata",
+      "@type": "cr:FileObject",
+      "name": "source_datasets.json",
+      "description": "External-source provenance metadata for public datasets used by MEDALS.",
+      "contentUrl": "metadata/source_datasets.json",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "responsible_ai_statement",
+      "@type": "cr:FileObject",
+      "name": "responsible_ai_statement.md",
+      "description": "Responsible AI documentation for the MEDALS code/evaluation-method artifact.",
+      "contentUrl": "metadata/responsible_ai_statement.md",
+      "encodingFormat": "text/markdown"
+    }
+  ],
+  "recordSet": [],
+  "prov:wasDerivedFrom": [
+    {
+      "@id": "source_pubmedqa",
+      "@type": "sc:Dataset",
+      "name": "PubMedQA",
+      "url": "https://pubmedqa.github.io/",
+      "sameAs": [
+        "https://github.com/pubmedqa/pubmedqa",
+        "https://huggingface.co/datasets/qiaojin/PubMedQA"
+      ],
+      "license": "MIT License",
+      "description": "External public biomedical QA source. Not redistributed in this artifact."
+    },
+    {
+      "@id": "source_medquad",
+      "@type": "sc:Dataset",
+      "name": "MedQuAD",
+      "url": "https://github.com/abachaa/MedQuAD",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "description": "External public medical QA source. Not redistributed in this artifact."
+    },
+    {
+      "@id": "source_questions_vs_statements_kaggle",
+      "@type": "sc:Dataset",
+      "name": "Questions vs Statements Classification Dataset",
+      "url": "https://www.kaggle.com/datasets/shahrukhkhan/questions-vs-statementsclassificationdataset",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "description": "External public question-vs-statement classification source used for question-form classifier training. Not redistributed in this artifact."
+    }
+  ],
+  "prov:wasGeneratedBy": [
+    {
+      "@id": "medals_pipeline",
+      "@type": "prov:Activity",
+      "name": "MEDALS benchmark-generation and evaluation pipeline",
+      "description": "The released code can load public medical QA corpora, compute embeddings, fit ICD-stratified local GMMs, sample latent vectors, filter question-like vectors, decode via vec2text, filter malformed outputs, apply LLM-based clinical rewriting, and compute diversity/distribution/evaluation metrics. The artifact does not redistribute a fixed generated dataset as a new data contribution."
+    }
+  ],
+  "rai:dataLimitations": "This metadata describes a code/evaluation-method artifact, not a static dataset release. MEDALS estimates an empirical medical-question distribution from public corpora such as PubMedQA and MedQuAD; this should not be interpreted as the true real-world clinical-question distribution.",
+  "rai:dataBiases": "MEDALS inherits biases from the external source datasets, ICD mapping, embedding models, local GMM sampling, vec2text decoding, LLM rewriting, LLM judging, and physician-evaluation sampling. PubMedQA emphasizes biomedical research abstracts; MedQuAD emphasizes NIH and medical information websites; the Kaggle classifier data is not medical-domain-specific.",
+  "rai:personalSensitiveInformation": "The released artifact does not intentionally include private patient records or protected health information. Generated outputs may be health-domain content and should not be used as medical advice.",
+  "rai:dataUseCases": "Recommended uses include medical LLM evaluation research, benchmark-generation methodology research, analysis of distribution alignment/diversity, and reproducibility of the MEDALS experiments. Not recommended for diagnosis, triage, treatment, patient-facing medical advice, or claims of real-world clinical deployment safety.",
+  "rai:dataSocialImpact": "Potential benefits include improved transparency in medical LLM evaluation and analysis of benchmark saturation. Potential risks include overclaiming clinical ability, misuse of generated questions as medical guidance, or propagation of source-corpus and LLM-generator biases.",
+  "rai:hasSyntheticData": false,
+  "rai:syntheticDataDescription": "The artifact is code and metadata, not a static synthetic dataset. The code can generate synthetic benchmark questions. If a fixed generated question set is released later, it should be documented as a synthetic dataset with data-hosting and Croissant metadata."
+}

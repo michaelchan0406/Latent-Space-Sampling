@@ -1,0 +1,34 @@
+{
+  "artifact_name": "MEDALS",
+  "artifact_version": "anonymous-submission",
+  "artifact_url": "https://anonymous.4open.science/r/Latent-Space-Sampling-BD8C/",
+  "artifact_type": [
+    "code",
+    "evaluation methodology",
+    "benchmark-generation pipeline"
+  ],
+  "new_static_dataset_release": false,
+  "included_components": [
+    "source preprocessing scripts",
+    "embedding and GMM sampling code",
+    "vec2text decoding/filtering code",
+    "LLM prompt templates or prompt descriptions",
+    "baseline generation scripts",
+    "diversity and distribution-alignment evaluation scripts",
+    "physician-evaluation analysis scripts if included",
+    "metadata and responsible-use documentation"
+  ],
+  "not_included_by_default": [
+    "PubMedQA raw data",
+    "MedQuAD raw data",
+    "Kaggle Questions vs Statements raw data",
+    "private API keys",
+    "private patient data or clinical notes",
+    "fixed generated MEDALS dataset as a claimed dataset contribution"
+  ],
+  "external_source_metadata": "metadata/source_datasets.json",
+  "responsible_ai_statement": "metadata/responsible_ai_statement.md",
+  "llm_usage_metadata": "metadata/llm_usage_metadata.json",
+  "license": "See repository license file",
+  "anonymity_note": "Ensure URLs, paths, README text, comments, and metadata do not reveal author identity under double-blind review."
+}

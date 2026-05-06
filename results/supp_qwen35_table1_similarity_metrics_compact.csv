@@ -1,0 +1,8 @@
+Family,Method,Source Key,MMD ↓,FBD ↓,KL ↓
+Qwen3.5-Flash,M1,M1 Qwen3.5-f,0.000177 ± 0.000003,0.3979 ± 0.0035,0.5484 ± 0.0225
+Qwen3.5-Flash,M2,M4 Qwen3.5-f,0.000268 ± 0.000005,0.4618 ± 0.0048,0.2525 ± 0.0207
+Qwen3.5-Flash,Med-Rag,Med-Rag-qwen3.5-f,0.000358 ± 0.000003,0.3798 ± 0.0020,0.1849 ± 0.0164
+Qwen3.5-Flash,Self-Instruct,Self-instruct_qwen3.5-f,0.000138 ± 0.000003,0.3163 ± 0.0024,0.3089 ± 0.0351
+Qwen3.5-Flash,WizardLM,WizardLM-qwen3.5-f,0.000251 ± 0.000006,0.4017 ± 0.0036,0.4132 ± 0.0463
+Qwen3.5-Flash,Stratified Sampling,Ours-qwen3.5f-stratifiedL2,0.000049 ± 0.000002,0.2385 ± 0.0018,0.1056 ± 0.0120
+Qwen3.5-Flash,Global Sampling,global_gmm_qwen3.5-f,0.000068 ± 0.000003,0.3468 ± 0.0037,0.1939 ± 0.0209

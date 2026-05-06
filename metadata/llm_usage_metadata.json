@@ -1,0 +1,55 @@
+{
+  "metadata_version": "2026-05-06",
+  "purpose": "Document high-level LLM usage in the MEDALS generation and evaluation artifact. Exact prompts and runtime defaults are reported in the paper supplement and reflected in the code/configuration files where applicable.",
+  "llm_usage_summary": {
+    "llms_used_as_core_method_components": true,
+    "llms_used_for_baseline_generation": true,
+    "llms_used_as_judges": true,
+    "llms_used_for_downstream_answer_generation": true,
+    "llms_used_for_paper_language_editing": "not specified"
+  },
+  "stages": [
+    {
+      "stage_name": "clinical_rewrite",
+      "purpose": "Rewrite raw vec2text outputs into fluent, clinically plausible, answerable English medical questions.",
+      "prompt_location": "Supplement and code/configuration files.",
+      "reported_parameters_location": "Supplement and code/configuration files.",
+      "reproducibility_note": "Closed-source LLM outputs may vary if providers update model behavior behind the same API name. The artifact therefore prioritizes prompt/configuration transparency rather than claiming bitwise reproducibility of API outputs."
+    },
+    {
+      "stage_name": "baseline_generation",
+      "methods": [
+        "M1",
+        "M2",
+        "Self-Instruct",
+        "WizardLM/EvolInstruct",
+        "Med-RAG"
+      ],
+      "purpose": "Generate baseline medical benchmark questions for comparison.",
+      "prompt_location": "Supplement and code/configuration files."
+    },
+    {
+      "stage_name": "question_quality_judging",
+      "purpose": "Score generated questions for fluency, clinical validity, and answerability.",
+      "prompt_location": "Supplement and code/configuration files.",
+      "score_scale": "1-5 integer scale unless otherwise stated in the paper.",
+      "aggregation": "Average across valid judge outputs unless otherwise stated in the paper."
+    },
+    {
+      "stage_name": "downstream_answer_generation",
+      "purpose": "Generate model answers to sampled benchmark questions.",
+      "prompt_location": "Supplement and code/configuration files."
+    },
+    {
+      "stage_name": "downstream_answer_scoring",
+      "purpose": "Score model answers for accuracy, completeness, and safety.",
+      "prompt_location": "Supplement and code/configuration files.",
+      "aggregation": "Average across valid judge outputs unless otherwise stated in the paper."
+    }
+  ],
+  "global_notes": [
+    "This file intentionally records high-level LLM provenance only. Exact prompts are documented in the supplement and/or codebase.",
+    "The artifact is framed as a code and evaluation-method release rather than a new static dataset release.",
+    "If a fixed generated question set is released later, add item-level provenance such as generation_method, rewrite_model, prompt_id, and generation_config_id."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "metadata_version": "2026-05-06",
+  "artifact_context": "MEDALS code and evaluation-method artifact. External public datasets are referenced but not redistributed.",
+  "submission_framing": {
+    "new_static_dataset_contribution": false,
+    "artifact_type": [
+      "benchmark-generation code",
+      "evaluation pipeline",
+      "prompt/configuration release",
+      "experiment reproducibility artifact"
+    ],
+    "source_data_policy": "The artifact uses existing public datasets as external sources. It provides source URLs and preprocessing/generation code rather than re-hosting source datasets."
+  },
+  "redistribution_policy": {
+    "redistributes_source_datasets": false,
+    "instructions": "Do not bundle or re-upload PubMedQA, MedQuAD, or the Kaggle Questions vs Statements dataset unless redistribution has been independently verified and is necessary. Reference the original public URLs and provide executable preprocessing/generation code."
+  },
+  "external_source_datasets": [
+    {
+      "source_id": "pubmedqa",
+      "name": "PubMedQA",
+      "homepage_url": "https://pubmedqa.github.io/",
+      "repository_url": "https://github.com/pubmedqa/pubmedqa",
+      "huggingface_loader_url": "https://huggingface.co/datasets/qiaojin/PubMedQA",
+      "license": "MIT License",
+      "license_url": "https://github.com/pubmedqa/pubmedqa/blob/master/LICENSE",
+      "description": "Biomedical question answering dataset collected from PubMed abstracts. The task is to answer biomedical research questions using corresponding abstracts with yes/no/maybe labels.",
+      "reported_size": {
+        "expert_labeled_instances": 1000,
+        "unlabeled_instances": 61200,
+        "artificially_generated_instances": 211300
+      },
+      "role_in_medals": [
+        "Source medical QA corpus used to estimate the empirical medical-question reference distribution.",
+        "Source corpus used for ICD/super-cluster assignment where applicable.",
+        "Potential source corpus for retrieval-grounded baseline contexts, depending on the released scripts/configuration."
+      ],
+      "included_in_artifact": false,
+      "access_note": "The artifact code should download or load this dataset from the original public source or Hugging Face loader at runtime; the artifact should not claim PubMedQA as a new dataset contribution.",
+      "citation_note": "Cite Jin et al., PubMedQA: A Dataset for Biomedical Research Question Answering, EMNLP-IJCNLP 2019."
+    },
+    {
+      "source_id": "medquad",
+      "name": "MedQuAD",
+      "homepage_url": "https://github.com/abachaa/MedQuAD",
+      "repository_url": "https://github.com/abachaa/MedQuAD",
+      "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "description": "Medical question answering dataset of 47,457 QA pairs created from 12 NIH websites, covering question types such as treatment, diagnosis, and side effects and including annotations such as question focus, synonyms, UMLS CUI, and semantic type where available.",
+      "reported_size": {
+        "qa_pairs": 47457,
+        "source_websites": 12
+      },
+      "role_in_medals": [
+        "Source medical QA corpus used to estimate the empirical medical-question reference distribution.",
+        "Source corpus used for ICD/super-cluster assignment where applicable.",
+        "Potential source corpus for retrieval-grounded baseline contexts, depending on the released scripts/configuration."
+      ],
+      "included_in_artifact": false,
+      "access_note": "The artifact code should download or load this dataset from the original public GitHub repository at runtime; the artifact should not claim MedQuAD as a new dataset contribution.",
+      "rights_note": "The MedQuAD README states that answers were removed from three subsets to respect MedlinePlus copyright. Keep this note in paper/artifact documentation if those subsets are used.",
+      "citation_note": "Cite Ben Abacha and Demner-Fushman, A Question-Entailment Approach to Question Answering, BMC Bioinformatics 2019."
+    },
+    {
+      "source_id": "questions_vs_statements_kaggle",
+      "name": "Questions vs Statements Classification Dataset",
+      "homepage_url": "https://www.kaggle.com/datasets/shahrukhkhan/questions-vs-statementsclassificationdataset",
+      "repository_url": null,
+      "license": "CC0: Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "description": "Kaggle dataset for classifying sentences as questions versus statements. The listing describes the dataset as based on SQuAD and SPAADIA and labels the task as binary classification.",
+      "reported_size": null,
+      "role_in_medals": [
+        "Training data for the question-form classifier used to filter sampled latent vectors before vec2text decoding."
+      ],
+      "included_in_artifact": false,
+      "access_note": "The artifact code should direct users to the original Kaggle dataset page and should not bundle the dataset by default.",
+      "verification_note": "Before final submission or camera-ready, manually check the Kaggle page while logged in and confirm that the displayed license and downloadable files match this metadata."
+    }
+  ]
+}
